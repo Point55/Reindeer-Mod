@@ -1,0 +1,10 @@
+{
+  "reindeer.hurt": {
+    "category": "entity",
+    "sounds": [{"name": "reindeermod:entity/reindeer/reindeer_hurt", "stream": true}]
+  },
+ "reindeer.death": {
+    "category": "entity",
+    "sounds": [{"name": "reindeermod:entity/reindeer/reindeer_death", "stream": true}]
+  }
+}
